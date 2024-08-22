@@ -1,0 +1,21 @@
+.bgLogin-image {
+    background-image: url('../images/pexels-rodolfoclix-1366942.jpg');
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    width: 100%;
+  }
+  
+  .login-form {
+    width: 100%;
+    max-width: 400px;
+   
+    border-radius: 8px;
+  }
+  
+  .shadow-custom {
+    box-shadow: 0 2px 15px rgba(198, 205, 207, 0.808);
+  }
+  
+  
+
